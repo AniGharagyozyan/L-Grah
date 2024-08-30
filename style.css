@@ -1,0 +1,586 @@
+body {
+	margin: 0 auto;
+}
+
+.dish-background {
+	background-image: url(img/dish-background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 1646px;;
+	width: auto;
+}
+
+.nav-item {
+	padding-top: 49px;
+	margin-left: 143px;
+}
+
+.nav-item-link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.nav {
+	font-weight: bold;
+	font-family: 'Chivo', sans-serif;
+	display: inline-flex;
+	color: #fff;
+	width: 100%;
+	margin-top: 132px;
+	font-size: 25px;
+}
+
+.nav-logo {
+	position: relative;
+	top: -19px
+}
+
+.dish-title {
+	padding-top: 220px;
+	margin-right: 142px;
+	text-align: right;
+	color: #fff;
+	font-size: 48px;
+	font-weight: 400;
+	font-family: 'Chivo', sans-serif;
+}
+
+.dish-link {
+	padding-top: 34px;
+	margin-right: 142px;
+	text-align: right;
+	font-family: 'Chivo', sans-serif;
+	font-size: 37.5px;
+	font-weight: 400;
+	color: #ffc901;
+}
+
+.dish-href {
+	text-decoration: none;
+	color: #ffc901;
+}
+
+.dish-logo {
+	float: right;
+	margin-right: 142px;
+	padding-top: 120px;
+	padding-bottom: 215px;
+}
+
+.dish-subtitle {
+	font-size: 53px;
+	color: #fff;
+	font-weight: bold;
+	font-family: 'Chivo', sans-serif;
+	text-align: center;
+	margin-left: 1006px;
+	margin-top: 714px;
+}
+
+.book-now {
+	text-decoration: none;
+	color: #ffc901;
+	margin-left: 13px;
+}
+
+.cook {
+	height: 100vh;
+	background-image: url(img/secondbg.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.cook-title {
+	margin-left: 72px;
+	font-weight: 300;
+	font-size: 55px;
+	color: #fff;
+	display: inline-flex;
+	padding-top: 130px;
+}
+
+.about {
+	font-family: 'Chivo', sans-serif;
+}
+
+.LGRAN {
+	position: relative;
+	top: -11px;
+	left: 13px;
+	margin-left: 11px;
+	font-family: 'Atma', cursive;
+}
+
+.zizi1 {
+	margin-left: 90px;
+	position: relative;
+	right: 53px;
+	top: -5px;
+}
+
+.zizi2 {
+	position: relative;
+	left: 53px;
+	top: -5px;
+}
+
+.cook-text {
+	text-align: center;
+	margin-right: 1160px;
+	font-family: 'Overpass', sans-serif;
+	font-size: 21px;
+	padding-top: 112px;
+	font-weight: 100;
+	color: #fff;
+	padding-bottom: 123px;
+}
+
+.cook-subtitle {
+	font-family: 'Overpass', sans-serif;
+	margin-left: 227px;
+	font-weight: 300;
+	font-size: 33px;
+	color: #fff;
+}
+
+.cook-subtitle-link {
+	font-family: 'Overpass', sans-serif;
+	text-decoration: none;
+	color: #ffc901;
+}
+
+.cake {
+	background-image: url(img/cake.jpg);
+	width: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 1440px;
+}
+
+.cook-content {
+	padding-top: 514px;
+}
+
+.cake-title {
+	display: inline-flex;
+	font-family: 'Chivo', sans-serif;
+	margin-left: 1000px;
+	font-size: 55px;
+	font-weight: 300;
+	color: #fff;
+	padding-bottom: 115px;
+}
+
+.cake-shape1 {
+	position: relative;
+	right: 54px;
+	top: -6px;
+}
+
+.cake-shape2 {
+	left: 54px;
+	top: -6px;
+	position: relative;
+}
+
+.cake-text {
+	text-align: center;
+	margin-left: 699px;
+	font-weight: 200;
+	color: #fff;
+	font-size: 25px;
+	font-family: 'Overpass', sans-serif;
+	padding-bottom: 111px;
+}
+
+.cake-text2 {
+	justify-content: center;
+	padding-bottom: 32px;
+	font-weight: 300;
+	text-align: justify;
+	color: #fff;
+	font-family: 'Chivo', sans-serif;
+	margin-left: 1046px;
+}
+
+.cake-text2-1 {
+	font-size: 68px;
+}
+
+.cake-text2-2 {
+	font-size: 55px;
+}
+
+.cake-subtitle {
+	margin-left: 1093px;
+	font-size: 36px;
+	font-weight: 100;
+	color: #ffc901;
+	font-family: 'Overpass', sans-serif;
+}
+
+.gallerey {
+	background-image: url(img/gallerey.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 1246px;
+}
+
+.gallerey-shape1 {
+	margin-left: 746px;
+	position: relative;
+	left: -59px;
+	top: -4px;
+}
+
+.gallerey-shape2 {
+	position: relative;
+	left: 59px;
+	top: -4px;
+}
+
+.gallerey-title {
+	display: inline-flex;
+	padding-top: 116px;
+	text-align: center;
+	color: #fff;
+	font-size: 55px;
+	font-weight: 400;
+	font-family: 'Chivo', sans-serif;
+}
+
+.photo2 {
+	padding-top: 16px;
+}
+
+.photo3 {
+	padding-left: 16px;
+}
+
+.photo4 {
+	padding-left: 16px;
+	padding-top: 16px;
+	padding-bottom: 24px;
+}
+
+.photo5 {
+	padding-left: 16px;
+}
+
+.photo6 {
+	padding-bottom: 16px;
+	padding-left: 16px;
+}
+
+.photo7 {
+	padding-left: 16px;
+}
+
+.gallerey-collage {
+	margin-left: 295px;
+	padding-top: 110px;
+	display: inline-flex;
+}
+
+.book {
+	background-image: url(img/book.jpg);
+	background-size: cover;
+	height: 1061px;
+	width: auto;
+}
+
+.book-title {
+	padding-top: 8px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 55px;
+	color: #fff;
+	font-family: 'Chivo', sans-serif;
+	padding-bottom: 28px;
+}
+
+.book-shape1 {
+	position: relative;
+	top: 57px;
+	left: 239px;
+}
+
+.book-shape2 {
+	position: relative;
+	top: -72px;
+	right: 239px;
+}
+
+.book-text {
+	text-align: center;
+	font-size: 37.5px;
+	color: #fff;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	padding-bottom: 83px;
+}
+
+.form {
+	margin-left: 182px;
+	display: inline-flex;
+}
+
+.form-name-text {
+	color: #fff;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	font-size: 29px;
+}
+
+.form-name {
+	margin-top: 21px;
+	border-color: #ffc901;
+	border-radius: 7px;
+	height: 56px;
+	width: 379px;
+	opacity: 1;
+	font-size: 19px;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	padding-left: 24px;
+	margin-bottom: 71px;
+	color: #fff;
+}
+
+.selector-name {
+	font-family: 'Overpass', sans-serif;
+	font-size: 29px;
+	font-weight: 200;
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.selector {
+	border-color: #ffc901;
+	border-radius: 7px;
+	height: 56px;
+	width: 414px;
+	background-image: url(img/book.jpg);
+	font-size: 19px;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	padding-left: 24px;
+	margin-bottom: 71px;
+	color: #fff;
+}
+
+.selector-date {
+	font-family: 'Overpass', sans-serif;
+	font-size: 29px;
+	font-weight: 200;
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.selector-date-year-moyh-day {
+	border-radius: 7px;
+	border-color: #ffc901;
+	color: #fff;
+	width: 414px;
+	height: 56px;
+	background-image: url(img/book.jpg);
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	padding-left: 24px;
+	font-family: 'Overpass', sans-serif;
+}
+
+.form2 {
+	margin-left: 620px;
+}
+
+.email-form {
+	border-color: #ffc901;
+	border-radius: 7px;
+	height: 56px;
+	width: 379px;
+	background-image: url(img/book.jpg);
+	font-size: 19px;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	padding-left: 24px;
+	margin-bottom: 71px;
+	color: #fff;
+}
+
+.email-div {
+	color: #fff;
+	font-size: 29px;
+	font-family: 'Overpass', sans-serif;
+	margin-bottom: 15px;
+	font-weight: 200;
+}
+
+.time {
+	color: #fff;
+	font-size: 29px;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+}
+
+.time-select {
+	border-radius: 7px;
+	border-color: #ffc901;
+	color: #fff;
+	width: 414px;
+	height: 56px;
+	background-image: url(img/book.jpg);
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	padding-left: 24px;
+	font-family: 'Overpass', sans-serif;
+}
+
+.number-div {
+	padding-top: 92px;
+	color: #fff;
+	font-size: 29px;
+	font-family: 'Overpass', sans-serif;
+	margin-bottom: 15px;
+	font-weight: 200;
+}
+
+.number-input {
+	border-color: #ffc901;
+	border-radius: 7px;
+	height: 56px;
+	width: 379px;
+	background-image: url(img/book.jpg);
+	font-size: 19px;
+	font-weight: 200;
+	font-family: 'Overpass', sans-serif;
+	padding-left: 24px;
+	margin-bottom: 71px;
+	color: #fff;
+}
+
+.book-btn {
+	margin-left: 713px;
+	border-radius: 7px;
+	width: 373px;
+	background-color: #ffc901;
+	color: #010101;
+	text-align: center;
+	padding-top: 19px;
+	padding-bottom: 11px;
+	font-size: 42px;
+}
+
+.meal {
+	margin-top: -7px;
+	background-image: url(img/black.jpg);
+	background-size: cover;
+	height: 373px;
+}
+
+.meal-png {
+	padding-top: 48px;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 48px;
+}
+
+.meal-text {
+	text-align: center;
+	color: #fff;
+	font-size: 27px;
+	font-weight: 300;
+	font-family: 'Overpass', sans-serif;
+	padding-bottom: 51px;
+}
+
+.meal-subtitle {
+	text-align: center;
+	color: #ffc901;
+	font-size: 34px;
+	font-weight: 400;
+	font-family: 'Chivo', sans-serif;
+}
+
+footer {
+	background-image: url(img/footer.jpg);
+	height: 1440px;
+	background-size: cover;
+}
+
+.footer-title {
+	font-family: 'Chivo', sans-serif;
+	font-weight: 300;
+	font-size: 50px;
+	padding-top: 173px;
+	color: #ffc901;
+	margin-left: 164px;
+	padding-bottom: 59px;
+}
+
+.footer-text {
+	text-align: center;
+	font-family: 'Overpass', sans-serif;
+	font-size: 29px;
+	justify-content: center;
+	color: #fff;
+	font-weight: 200;
+	margin-right: 1094px;
+	padding-bottom: 58px;
+}
+
+.footer-link {
+	text-decoration: none;
+	color: #ffc901;
+}
+
+.footer-subtitle {
+	font-family: 'Overpass', sans-serif;
+	font-size: 42px;
+	font-weight: 400;
+	margin-left: 230px;
+	color: #ffc901;
+}
+
+.footer-logo {
+	justify-content: center;
+	display: flex;
+	padding-top: 90px;
+	padding-bottom: 56px;
+}
+
+.btttn {
+	border-bottom: 4px dotted #fcc701;
+	padding-top: 358px;
+}
+
+.footer-toolbar {
+	font-size: 21px;
+	font-weight: 400;
+	font-family: 'Overpass', sans-serif;
+	justify-content: space-evenly;
+	display: inline-flex;
+	text-align: center;
+	padding-bottom: 57px;
+	width: 70%;
+	margin-left: 266px;
+}
+
+.footer-toolbar-link {
+	text-decoration: none;
+	color: #fff;
+}
+
+.icons {
+	margin-left: 811px;
+	width: 15%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.dishes-img {
+	width: 100%;
+}
